@@ -1,2 +1,2 @@
 # CalculadoraEmKotlin
-Calculadora desenvolvida em Kotlin na aula de Programação para Dispostivos Móveis
+Calculadora desenvolvida em Kotlin na aula de Programação para Dispositivos Móveis
